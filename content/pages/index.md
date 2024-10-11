@@ -52,7 +52,7 @@ sections:
       any layout and any screen.
     actions:
       - type: Button
-        label: Try it now
+        label: Register yourself with BikerBUDS
         altText: ''
         url: 'https://app.formbricks.com/s/cm24tbzn600009tl819ko60b9'
         showIcon: true
