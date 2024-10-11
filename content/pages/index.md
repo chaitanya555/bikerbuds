@@ -54,7 +54,7 @@ sections:
       - type: Button
         label: Try it now
         altText: ''
-        url: /
+        url: 'https://app.formbricks.com/s/cm24tbzn600009tl819ko60b9'
         showIcon: true
         icon: arrowRight
         iconPosition: right
