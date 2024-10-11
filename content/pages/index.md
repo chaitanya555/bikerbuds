@@ -12,9 +12,7 @@ backgroundImage:
 sections:
   - type: CtaSection
     title: Let's do this
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: "Are you ready to take your riding experience to the NEXT LEVEL? \U0001F680 Whether you're chasing the horizon, seeking epic road trips, or just looking for a solid crew to ride with—**BikerBuds** has got your back! \U0001F918\n\n\U0001F525 **Why BikerBuds?** \U0001F525\n\n*   Find like-minded riders nearby \U0001F30D\n\n*   Plan legendary rides together \U0001F6E3\n\n*   Share your passion for two wheels with a tight-knit community of thrill-seekers \U0001F3CD\U0001F4A8\n\nDon't just ride solo—**ride with purpose**! \U0001F4AA Sign up today, meet fellow riders, and let's hit the road together. \U0001F31F\n"
     actions:
       - type: Button
         label: Register yourself with BikerBUDS
