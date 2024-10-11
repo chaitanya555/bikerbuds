@@ -20,7 +20,7 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "Upcoming Rides",
                 "altText": "",
                 "url": "/Upcoming Rides",
                 "showIcon": false,
