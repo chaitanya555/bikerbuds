@@ -17,7 +17,7 @@ sections:
       - type: Button
         label: Get your own customized Biker BUDS jersey!
         altText: ''
-        url: 'https://app.formbricks.com/s/cm24tbzn600009tl819ko60b9'
+        url: 'https://app.formbricks.com/s/cm2a84dzh000010njsgqj54ss'
         showIcon: true
         icon: arrowRight
         iconPosition: right
