@@ -6,7 +6,7 @@ backgroundImage:
   type: BackgroundImage
   url: /images/Untitled.png
   backgroundSize: cover
-  backgroundPosition: center
+  backgroundPosition: bottom
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
