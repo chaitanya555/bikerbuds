@@ -8,16 +8,7 @@
         "title": "",
         "isTitleVisible": false,
         "primaryLinks": [],
-        "socialLinks": [
-            {
-                "type": "Social",
-                "label": "Facebook",
-                "altText": "",
-                "url": "/bikerbuds",
-                "icon": "instagram",
-                "elementId": ""
-            }
-        ],
+        "socialLinks": [],
         "styles": {
             "self": {
                 "width": "full"
