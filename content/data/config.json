@@ -7,18 +7,7 @@
         "isSticky": true,
         "title": "",
         "isTitleVisible": false,
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Upcoming Rides",
-                "altText": "",
-                "url": "/Upcoming Rides",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
-            }
-        ],
+        "primaryLinks": [],
         "socialLinks": [
             {
                 "type": "Social",
