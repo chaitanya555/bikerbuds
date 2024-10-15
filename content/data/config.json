@@ -68,14 +68,7 @@
     },
     "footer": {
         "type": "Footer",
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
-            }
-        ],
+        "primaryLinks": [],
         "copyrightText": "Proudly made by BikerBUDS\n",
         "styles": {
             "self": {
