@@ -12,29 +12,7 @@ backgroundImage:
 sections:
   - type: CtaSection
     title: Let's do this
-    text: >
-      Get ready to ride in style with our latest Biker BUDS jersey! Designed for
-      comfort, performance, and a touch of flair, this jersey is perfect for
-      every biking enthusiast.
-
-
-      **Features:**
-
-
-      *   **Breathable Fabric:** Keeps you cool and dry on your longest rides.
-
-
-      *   **Stylish Design:** Stand out with our unique graphics and vibrant
-      colors.
-
-
-      *   **Perfect Fit:** Available in a range of sizes to suit every body
-      type.
-
-
-      Whether you're hitting the trails or cruising around town, the Biker BUDS
-      jersey is your new go-to gear. Don’t miss out—grab yours today and ride
-      with pride!
+    text: "Get ready to **ride in style** with our latest Biker BUDS jersey! \U0001F31F Designed for comfort, performance, and a touch of flair, this jersey is a must-have for every biking enthusiast.\n\n**\U0001F525 Features:**\n\n*   **Breathable Fabric:** Keeps you cool and dry on your longest rides! \U0001F4A8\n\n*   **Reflective Elements:** Stay visible and safe during those thrilling night rides! \U0001F319✨\n\n*   **Stylish Design:** Stand out with our unique graphics and vibrant colors! \U0001F3A8\n\n*   **Perfect Fit:** Available in a range of sizes to suit every body type! \U0001F4AA\n\nWhether you're tearing up the trails or cruising through the city, the Biker BUDS jersey is your ultimate ride companion. Don’t miss out—**grab yours today** and ride with pride! \U0001F64C\n\n\n\n"
     actions:
       - type: Button
         label: Register yourself with BikerBUDS
