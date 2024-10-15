@@ -4,7 +4,7 @@ title: ''
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/Untitled.png
+  url: /images/Untitled (2).png
   backgroundSize: cover
   backgroundPosition: top
   backgroundRepeat: no-repeat
