@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 70
 sections:
   - type: CtaSection
-    title: BikerBUDS Jersey!
+    title: ''
     text: |+
 
 
