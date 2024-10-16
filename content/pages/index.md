@@ -39,6 +39,7 @@ sections:
         alignItems: center
         justifyContent: flex-start
         flexDirection: col
+        borderStyle: dotted
       title:
         textAlign: left
       text:
