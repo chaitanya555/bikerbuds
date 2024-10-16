@@ -1,27 +1,6 @@
 {
     "type": "Config",
     "favicon": "/images/Screenshot 2024-10-11 195310.png",
-    "header": {
-        "type": "Header",
-        "headerVariant": "variant-c",
-        "isSticky": false,
-        "title": "",
-        "isTitleVisible": false,
-        "primaryLinks": [],
-        "socialLinks": [],
-        "styles": {
-            "self": {
-                "width": "full"
-            }
-        },
-        "logo": {
-            "type": "ImageBlock",
-            "url": "/images/BikerBUDS Badge 01 Artboard 1.png",
-            "altText": "altText of the image",
-            "caption": "Caption of the image",
-            "elementId": ""
-        }
-    },
     "footer": {
         "type": "Footer",
         "primaryLinks": [],
