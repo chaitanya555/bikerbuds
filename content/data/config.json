@@ -3,7 +3,7 @@
     "favicon": "/images/Screenshot 2024-10-11 195310.png",
     "header": {
         "type": "Header",
-        "headerVariant": "variant-a",
+        "headerVariant": "variant-c",
         "isSticky": false,
         "title": "",
         "isTitleVisible": true,
