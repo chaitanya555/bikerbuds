@@ -10,28 +10,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 70
 sections:
-  - type: TextSection
-    colors: colors-f
-    variant: variant-a
-    title: ''
-    text: "<div style=\"text-align: left\">\U0001F6A8Hola BikerBUDS!</div>\n\nGet ready to ride in style. Our exclusive BikerBUDS Custom Jerseys are back, made with premium materials from the brand OCCUPIED for enhanced durability and comfort \U0001F525\n\n\U0001F6A8And yes, we’re sticking with the iconic design to carry forward the legacy of BikerBUDS on every ride!\n\nWhat’s improved:\n\n*   Premium Fabric: Softer and more breathable for comfort on long rides.\n\n*   Enhanced Stitching: Increased durability to withstand all your adventures.\n\n*   Vibrant Colors: Fade-resistant printing to keep you looking fresh.\n\n*   Better Fit: Tailored design for improved mobility and style.\n\n*   Reflectors for Safety: Discreetly placed for added visibility when needed.\n\n⚡ Limited availability, don't miss your chance! Fill out the form \U0001F447 and grab your jersey!\n\nLink here\n\nLet’s rock these jerseys and make some noise on our next ride! \U0001F4AA\n\nCheers \U0001F91C\U0001F3FC\U0001F91B\U0001F3FCTeam BikerBUDS\n"
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
   - type: CtaSection
     title: ''
     text: |2+
