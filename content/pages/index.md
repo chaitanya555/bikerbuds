@@ -6,7 +6,7 @@ backgroundImage:
   type: BackgroundImage
   url: /images/Frame 1 (1).png
   backgroundSize: cover
-  backgroundPosition: top
+  backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 70
 sections:
