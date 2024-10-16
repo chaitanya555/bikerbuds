@@ -6,7 +6,7 @@ backgroundImage:
   type: BackgroundImage
   url: /images/Frame 1ximg.png
   backgroundSize: cover
-  backgroundPosition: center
+  backgroundPosition: bottom
   backgroundRepeat: no-repeat
   opacity: 70
 sections:
