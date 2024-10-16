@@ -12,11 +12,11 @@
     "onComplementary": "#FBFFF2",
     "fontBody": "fontPrimary",
     "h1": {
-        "size": "6xl",
-        "weight": "normal",
-        "decoration": "underline",
+        "size": "lg",
+        "weight": "medium",
+        "decoration": "none",
         "case": "capitalize",
-        "letterSpacing": "normal"
+        "letterSpacing": "tight"
     },
     "h2": {
         "size": "5xl",
