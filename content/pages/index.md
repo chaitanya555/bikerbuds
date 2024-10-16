@@ -4,7 +4,7 @@ title: BikerBUDS
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/Frame 1 (1).png
+  url: /images/Frame 1ximg.png
   backgroundSize: contain
   backgroundPosition: center
   backgroundRepeat: no-repeat
