@@ -17,7 +17,8 @@ sections:
       - type: Button
         label: Try it now
         altText: ''
-        url: /
+        url: >-
+          https://app.formbricks.com/s/cm2a84dzh000010njsgqj54ss?userId=BikerBUDS
         showIcon: true
         icon: arrowRight
         iconPosition: right
