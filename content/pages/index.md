@@ -6,7 +6,7 @@ backgroundImage:
   type: BackgroundImage
   url: /images/trial 1x.png
   backgroundSize: cover
-  backgroundPosition: center
+  backgroundPosition: top
   backgroundRepeat: no-repeat
   opacity: 70
 sections:
