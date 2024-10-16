@@ -17,7 +17,8 @@ sections:
       - type: Button
         label: Get your own customized BikerBUDS jersey!
         altText: ''
-        url: 'https://app.formbricks.com/s/cm2a84dzh000010njsgqj54ss'
+        url: >-
+          https://app.formbricks.com/s/cm2a84dzh000010njsgqj54ss?userId=BikerBUDS
         showIcon: true
         icon: arrowRight
         iconPosition: right
