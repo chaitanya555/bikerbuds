@@ -5,7 +5,7 @@ colors: colors-a
 backgroundImage:
   type: BackgroundImage
   url: /images/Frame 1 (1).png
-  backgroundSize: cover
+  backgroundSize: contain
   backgroundPosition: top
   backgroundRepeat: no-repeat
   opacity: 70
