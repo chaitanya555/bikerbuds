@@ -4,7 +4,7 @@ title: BikerBUDS
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/Untitled.png
+  url: /images/trial 1x.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
