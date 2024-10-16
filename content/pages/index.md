@@ -8,7 +8,7 @@ backgroundImage:
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 17
+  opacity: 100
 sections:
   - type: CtaSection
     title: BikerBUDS Jersey!
