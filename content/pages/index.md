@@ -1,23 +1,24 @@
 ---
 type: PageLayout
-title: ''
+title: BikerBUDS
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/Untitled (2).png
+  url: /images/Untitled.png
   backgroundSize: cover
-  backgroundPosition: top
+  backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 75
+  opacity: 70
 sections:
   - type: CtaSection
     title: BikerBUDS Jersey!
-    text: "Get ready to **ride in style** with our latest Biker BUDS jersey! \U0001F31F Designed for comfort, performance, and a touch of flair, this jersey is a must-have for every biking enthusiast.\n\n**\U0001F525 Features:**\n\n*   **Breathable Fabric:** Keeps you cool and dry on your longest rides! \U0001F4A8\n\n*   **Reflective Elements:** Stay visible and safe during those thrilling night rides! \U0001F319✨\n\n*   **Stylish Design:** Stand out with our unique graphics and vibrant colors! \U0001F3A8\n\n*   **Perfect Fit:** Available in a range of sizes to suit every body type! \U0001F4AA\n\nWhether you're tearing up the trails or cruising through the city, the Biker BUDS jersey is your ultimate ride companion. Don’t miss out—**grab yours today** and ride with pride! \U0001F64C\n\n\n\n"
+    text: "Get ready to **ride in style** with our latest **BikerBUDS** jersey! \U0001F31F Designed for comfort, performance, and a touch of flair, this jersey is a must-have for every biking enthusiast.\n\n**\U0001F525 Features:**\n\n*   **Breathable Fabric:** Keeps you cool and dry on your longest rides! \U0001F4A8\n\n*   **Reflective Elements:** Stay visible and safe during those thrilling night rides! \U0001F319✨\n\n*   **Stylish Design:** Stand out with our unique graphics and vibrant colors! \U0001F3A8\n\n*   **Perfect Fit:** Available in a range of sizes to suit every body type! \U0001F4AA\n\nWhether you're tearing up the trails or cruising through the city, the Biker BUDS jersey is your ultimate ride companion. Don’t miss out—**grab yours today** and ride with pride! \U0001F64C\n"
     actions:
       - type: Button
         label: Get your own customized BikerBUDS jersey!
         altText: ''
-        url: 'https://app.formbricks.com/s/cm2a84dzh000010njsgqj54ss'
+        url: >-
+          https://app.formbricks.com/s/cm2a84dzh000010njsgqj54ss?userId=BikerBUDS
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -29,15 +30,16 @@ sections:
     styles:
       self:
         height: auto
-        width: narrow
+        width: wide
         padding:
           - pt-28
           - pb-28
           - pl-4
           - pr-4
         alignItems: center
-        justifyContent: center
+        justifyContent: flex-start
         flexDirection: col
+        borderStyle: dotted
       title:
         textAlign: left
       text:
