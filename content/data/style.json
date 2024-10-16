@@ -10,19 +10,19 @@
     "onSecondary": "#050806",
     "complementary": "#565862",
     "onComplementary": "#FBFFF2",
-    "fontBody": "fontSecondary",
+    "fontBody": "fontPrimary",
     "h1": {
         "size": "6xl",
         "weight": "normal",
-        "decoration": "none",
-        "case": "uppercase",
+        "decoration": "underline",
+        "case": "capitalize",
         "letterSpacing": "normal"
     },
     "h2": {
         "size": "5xl",
         "weight": "normal",
-        "decoration": "none",
-        "case": "uppercase",
+        "decoration": "underline",
+        "case": "capitalize",
         "letterSpacing": "normal"
     },
     "h3": {

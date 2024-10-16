@@ -4,15 +4,15 @@ title: BikerBUDS
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/Untitled.png
+  url: /images/Frame 1ximg.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 70
 sections:
   - type: CtaSection
-    title: BikerBUDS Jersey!
-    text: "Get ready to **ride in style** with our latest **BikerBUDS** jersey! \U0001F31F Designed for comfort, performance, and a touch of flair, this jersey is a must-have for every biking enthusiast.\n\n**\U0001F525 Features:**\n\n*   **Breathable Fabric:** Keeps you cool and dry on your longest rides! \U0001F4A8\n\n*   **Reflective Elements:** Stay visible and safe during those thrilling night rides! \U0001F319✨\n\n*   **Stylish Design:** Stand out with our unique graphics and vibrant colors! \U0001F3A8\n\n*   **Perfect Fit:** Available in a range of sizes to suit every body type! \U0001F4AA\n\nWhether you're tearing up the trails or cruising through the city, the Biker BUDS jersey is your ultimate ride companion. Don’t miss out—**grab yours today** and ride with pride! \U0001F64C\n"
+    title: Hola BikerBUDS!
+    text: "Get ready to ride in style. Our exclusive BikerBUDS Custom Jerseys are back, made with premium materials from the brand OCCUPIED for enhanced durability and comfort \U0001F525\n\n\U0001F6A8And yes, we’re sticking with the iconic design to carry forward the legacy of BikerBUDS on every ride!\n\nWhat’s improved:\n\n*   Premium Fabric: Softer and more breathable for comfort on long rides.\n\n*   Enhanced Stitching: Increased durability to withstand all your adventures.\n\n*   Vibrant Colors: Fade-resistant printing to keep you looking fresh.\n\n*   Better Fit: Tailored design for improved mobility and style.\n\n*   Reflectors for Safety: Discreetly placed for added visibility when needed.\n\n⚡ Limited availability, don't miss your chance! Fill out the form \U0001F447 and grab your jersey!\n\nLet’s rock these jerseys and make some noise on our next ride! \U0001F4AA\n\nCheers \U0001F91C\U0001F3FC\U0001F91B\U0001F3FCTeam BikerBUDS\n"
     actions:
       - type: Button
         label: Get your own customized BikerBUDS jersey!
@@ -22,7 +22,7 @@ sections:
         showIcon: true
         icon: arrowRight
         iconPosition: right
-        style: secondary
+        style: primary
         elementId: ''
     colors: colors-f
     backgroundSize: full
@@ -30,16 +30,15 @@ sections:
     styles:
       self:
         height: auto
-        width: wide
+        width: narrow
         padding:
           - pt-28
           - pb-28
           - pl-4
           - pr-4
         alignItems: center
-        justifyContent: flex-start
+        justifyContent: center
         flexDirection: col
-        borderStyle: dotted
       title:
         textAlign: left
       text:
