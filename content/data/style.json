@@ -14,7 +14,7 @@
     "h1": {
         "size": "lg",
         "weight": "medium",
-        "decoration": "underline",
+        "decoration": "none",
         "case": "capitalize",
         "letterSpacing": "normal"
     },
