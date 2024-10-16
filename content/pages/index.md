@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: ''
+title: BikerBUDS
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
