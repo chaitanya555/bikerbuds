@@ -5,7 +5,7 @@ colors: colors-a
 backgroundImage:
   type: BackgroundImage
   url: /images/trial 1x.png
-  backgroundSize: cover
+  backgroundSize: contain
   backgroundPosition: top
   backgroundRepeat: no-repeat
   opacity: 70
