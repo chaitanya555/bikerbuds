@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - type: CtaSection
-    title: BikerBUDS Jersey!
+    title: BikerBUD Jersey!
     text: "Get ready to **ride in style** with our latest **BikerBUDS** jersey! \U0001F31F Designed for comfort, performance, and a touch of flair, this jersey is a must-have for every biking enthusiast.\n\n**\U0001F525 Features:**\n\n*   **Breathable Fabric:** Keeps you cool and dry on your longest rides! \U0001F4A8\n\n*   **Reflective Elements:** Stay visible and safe during those thrilling night rides! \U0001F319✨\n\n*   **Stylish Design:** Stand out with our unique graphics and vibrant colors! \U0001F3A8\n\n*   **Perfect Fit:** Available in a range of sizes to suit every body type! \U0001F4AA\n\nWhether you're tearing up the trails or cruising through the city, the Biker BUDS jersey is your ultimate ride companion. Don’t miss out—**grab yours today** and ride with pride! \U0001F64C\n"
     actions:
       - type: Button
